@@ -1,16 +1,5 @@
 /* cricket
  *  tempF = (tempC*(9.00/5.00))+32.00;
- *  CSE 132 - Assignment 3
- *  
- *  Fill this out so we know whose assignment this is.
- *  
- *  Name: Karen Ye
- *  WUSTL Key: khye
- *  
- *  and if two are partnered together
- *  
- *  Name:
- *  WUSTL Key:
  */
 
 double tempC;
